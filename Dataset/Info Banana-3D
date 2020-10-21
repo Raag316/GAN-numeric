@@ -1,0 +1,2 @@
+The Banana-3D is an extension of banana dataset.
+An additional column is added and its values are derived by x^2 + y, where x is value in 1st column and y is value in 2nd column.
